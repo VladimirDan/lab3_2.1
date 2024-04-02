@@ -1,0 +1,99 @@
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 400px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+
+
+.first {
+  background-color: #eef612;
+  height: 50px;
+  text-align: right;
+}
+
+.inner-table {
+  height: 10px;
+  width: 400px;
+  border: 2px;
+}
+
+.inrercontainer {
+  background-color: white;
+  height: 10px;
+  width: 100px;
+}
+
+.innrefist {
+  border-color: #eef612;
+  background-color: #eef612;
+  height: 50px;
+  padding-right: 10px;
+  width: 100px;
+}
+
+
+
+.cont234 {
+  display: flex;
+}
+
+.second {
+  background-color: #0000ff;
+  width: 133px;
+  height: 245px;
+}
+
+
+
+.thing3 {
+  width: 163px;
+  border: none;
+  margin: 20px;
+  padding: 0;
+}
+
+.table3 {
+  border-spacing: 0px;
+  width: 163px;
+}
+.thing3_block1 {
+  height: 150px;
+  width: 163px;
+}
+.thing3_block2 {
+  height: 80px;
+  width: 163px;
+  background-color: #ff5050;
+}
+
+/* .thirddiv {
+  position: relative;
+  width: 133px;
+  height: 50px;
+  background-color: #ff0000;
+  top: 127px;
+} */
+
+.fourth {
+  background-color: #0000ff;
+  width: 133px;
+  margin: 20px;
+  margin-left: 10px;
+}
+
+.fifth {
+  background-color: #eef612;
+  height: 50px;
+}
